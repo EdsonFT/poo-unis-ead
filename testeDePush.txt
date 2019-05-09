@@ -1,1 +1,2 @@
-fgkd
+Fazendo um teste.
+Mandando um arquivo do meu computador para o repositório central remoto.
