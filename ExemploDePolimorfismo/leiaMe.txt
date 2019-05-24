@@ -1,0 +1,6 @@
+Ola mundo !!!
+Este é um exemplo de polimorfismo numa API de oi do java.
+Genérico o suficiente para usarmos em várias aplicações. 
+A classe FileInputStream é um InputStream e as classes FileOutputStream e PrintStream (classe do atributo "out" da Classe System) são também uma OutputStream. Isso gera o polimorfismo em java, permitindo que elas se comportem diferente para poderem tratarem de diversos dados de entrada quanto de saída. 
+Perceba que em nenhum momento eu detalho toda implementação do modo como os métodos trafegam na Stream, temos então o encapsulamento presente nessas classes do pacote java.io também. 
+Adoro java rsr :-)
