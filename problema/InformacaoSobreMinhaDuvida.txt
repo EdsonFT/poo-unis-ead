@@ -1,0 +1,3 @@
+O problema refere se à questão 04 do pdf
+
+Gostária de saber por que a task paralela executa só uma vez e não incrementa o valor da variável cont.
